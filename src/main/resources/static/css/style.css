@@ -1,0 +1,52 @@
+h1{
+			margin-left: 40%;
+			margin-top: 10px;
+			color: red;
+		}
+		.row{
+			margin-left: 90px;
+		}
+		.col-4-md{
+			border: black solid 4px;
+			height: 250px;
+			margin:20px;
+			width:20%;
+			text-align: center;
+		}
+
+		.bottom{
+			border: black solid 4px;
+			width: 70%;
+			height:150px;
+			margin-left:180px;
+			text-align:center;
+
+		}
+		h3{
+			margin-left: 5%;
+			margin-top: 5%;
+		}
+
+		.side{
+			border:black 4px solid;
+			width:10%;
+			height:60px;
+			margin-left: 250px;
+			text-align: center;
+			font-size: 30px;
+		}
+
+		.error{
+			color: red;
+		}
+		.success{
+			color: green;
+		}
+		.btn-warning{
+			margin-left:40%;
+			margin-top: 20px;
+		}
+		
+		#spa{
+		margin-left:30%;
+		}
